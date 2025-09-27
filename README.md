@@ -30,7 +30,7 @@ To analyze Netflix content library and identify patterns in movies & TV shows ba
 ## Dashboard Preview
 
 ### Netflix Home
-![Netflix-Home](images/Netflix-Home.png)
+![Netflix-Home](images.Netflix-Home.png)
 
 ### Netflix Movies
 ![Netflix-Home](images/Netflix-Movies.png)
