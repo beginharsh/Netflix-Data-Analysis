@@ -10,7 +10,7 @@ To analyze Netflix content library and identify patterns in movies & TV shows ba
 ## 🛠️ Tools Used  
 - Python (Pandas,Numpy)  
 - Jupyter Notebook
-- Power BI (Visualiztion)
+- Power BI (Visualization)
 
 
 ## 🔎 Approach  
