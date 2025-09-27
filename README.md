@@ -27,6 +27,9 @@ To analyze Netflix content library and identify patterns in movies & TV shows ba
 - TV shows make up the large majority of about 71% of the content.
 - The content is Primarily geared towards mature audiences, with TV-Ma(mature) and TV-14 ratings being most common.
 
+## Dashboard Preview
+[Dashboard Screenshot](https://github.com/beginharsh/Netflix-Data-Analysis/blob/d7b646631cca38420842ecb696af364b65ec5d7d/Netflix%20-Home.png)
+
 
 
 
